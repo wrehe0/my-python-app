@@ -161,7 +161,7 @@ jobs:
 - Перейдите на вкладку **Actions** в вашем репозитории на **GitHub**. Вы увидите, как ваш **Workflow** запустился, а через несколько минут загорится **зеленая** галочка, которая означает, что все шаги прошли успешно
 - Если ваш **Workflow** стал красным - исправьте ошибки и запуштесь снова
 
-![Скрин](/content/DevOps/CI_CD/img/1_workflow.png)
+![Скрин](ojwroqqq.png)
 
 ### 9. Проверить сборку Docker-образа локально
 
@@ -178,7 +178,7 @@ docker run --rm my-python-app:test
 
 Вы увидите вывод: `Hello from my Python app!`
 
-![Hello from my Python app!](/content/DevOps/CI_CD/img/2_workflow.png)
+![Hello from my Python app!](2026-04-22_11-25-37.png)
 
 Опционально вы можете зайти в созданный вами контейнер для ознакомления
 ```shell
